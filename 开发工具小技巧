@@ -1,3 +1,5 @@
+<html>
+<body>
 <h1>开发工具小技巧</h1>
 
 <h3>Eclipse快捷键</h3>
@@ -7,3 +9,5 @@
 导包               CTRL+SHIFT+O
 格式化代码块       CTRL+SHIFT+F
 </p> 
+</body>
+</html>
