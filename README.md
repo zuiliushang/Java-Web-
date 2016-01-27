@@ -11,5 +11,5 @@ The note of Java Web
 <li><a href="../../issues/3">DTD学习笔记</a></li>
 <li><a href="../../issues/4">HTTP请求的一些细节</a></li>
 <li><a href="../../issues/5">服务器证书的生成</a></li>
-<li><a href="../../issues/6">JAVAWEB基础篇</a></li>
+<li><a href="../../issues/6">请求重定向和请求转发的区别</a></li>
 </ul>
