@@ -12,4 +12,5 @@ The note of Java Web
 <li><a href="../../issues/4">HTTP请求的一些细节</a></li>
 <li><a href="../../issues/5">服务器证书的生成</a></li>
 <li><a href="../../issues/6">请求重定向和请求转发的区别</a></li>
+<li><a href="../../issues/7">session与浏览器服务</a></li>
 </ul>
