@@ -13,4 +13,6 @@ The note of Java Web
 <li><a href="../../issues/5">服务器证书的生成</a></li>
 <li><a href="../../issues/6">请求重定向和请求转发的区别</a></li>
 <li><a href="../../issues/7">session与浏览器服务</a></li>
+<li><a href="../../issues/8">JAVA单态设计模式</a></li>
+<li><a href="../../issues/9">JAVA-数据指纹（md5）与任意二进制明文字符（base64）生成随机数（单态设计模式）</a></li>
 </ul>
