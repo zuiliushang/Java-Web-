@@ -15,4 +15,5 @@ The note of Java Web
 <li><a href="../../issues/7">session与浏览器服务</a></li>
 <li><a href="../../issues/8">JAVA单态设计模式</a></li>
 <li><a href="../../issues/9">JAVA-数据指纹（md5）与任意二进制明文字符（base64）生成随机数（单态设计模式）</a></li>
+<li><a href="../../issues/10">JAVA-防止表单的重复提交</a></li>
 </ul>
