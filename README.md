@@ -19,4 +19,6 @@ The note of Java Web
 <li><a href="../../issues/11">JAVA-什么是域(`pageContext request session servletContext`)</a></li>
 <li><a href="../../issues/12">jsp:setProperty标签以及Date设置小问题</a></li>
 <li><a href="../../issues/13">JAVA三层架构以及项目目录的创建规则</a></li>
+<li><a href="../../issues/14">JAVA检验日期是否合法的小技巧</a></li>
+<li><a href="../../issues/15">JAVA异常类：checked exception与unchecked的小技巧</a></li>
 </ul>
