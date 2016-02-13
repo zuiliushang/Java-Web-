@@ -21,5 +21,5 @@ The note of Java Web
 <li><a href="../../issues/13">JAVA三层架构以及项目目录的创建规则</a></li>
 <li><a href="../../issues/14">JAVA检验日期是否合法的小技巧</a></li>
 <li><a href="../../issues/15">JAVA异常类：checked exception与unchecked的小技巧</a></li>
-<li><a href="../../issues/15">JAVA-ConvertUtils.register注册转换器用法</a></li>
+<li><a href="../../issues/16">JAVA-ConvertUtils.register注册转换器用法</a></li>
 </ul>
