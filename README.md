@@ -24,5 +24,6 @@ The note of Java Web
 <li><a href="../../issues/16">JAVA-ConvertUtils.register注册转换器用法</a></li>
 <li><a href="../../issues/17">SAXReader用法</a></li>
 <li><a href="../../issues/18">迭代List,Map以及Jsp中的迭代的方法</a></li>
-<li><a href="../../issues/19">JSP如何自定义标签(基础)</a></li>
+<li><a href="../../issues/19">JSP如何自定义标签(基础篇)</a></li>
+<li><a href="../../issues/20">JSP如何自定义标签(进阶篇)</a></li>
 </ul>
