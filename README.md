@@ -25,5 +25,6 @@ The note of Java Web
 <li><a href="../../issues/17">SAXReader用法</a></li>
 <li><a href="../../issues/18">迭代List,Map以及Jsp中的迭代的方法</a></li>
 <li><a href="../../issues/19">JSP如何自定义标签(基础篇)</a></li>
-<li><a href="../../issues/20">JSP如何自定义标签(进阶篇)</a></li>
+<li><a href="../../issues/20">JSP如何自定义标签(进阶篇一)</a></li>
+<li><a href="../../issues/21">JSP如何自定义标签(进阶篇二)开发带属性的标签</a></li>
 </ul>
