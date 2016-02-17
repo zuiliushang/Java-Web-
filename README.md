@@ -30,4 +30,5 @@ The note of Java Web
 <li><a href="../../issues/22">JSP如何自定义标签(开发篇)</a></li>
 <li><a href="../../issues/23">EL表达式中的11个隐式对象</a></li>
 <li><a href="../../issues/24">EL表达式调用JAVA方法</a></li>
+<li><a href="../../issues/25">SUN公司常用的EL函数库</a></li>
 </ul>
