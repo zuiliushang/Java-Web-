@@ -32,4 +32,5 @@ The note of Java Web
 <li><a href="../../issues/24">EL表达式调用JAVA方法</a></li>
 <li><a href="../../issues/25">SUN公司常用的EL函数库</a></li>
 <li><a href="../../issues/26">JSTL常用标签库（核心标签库篇）</a></li>
+<li><a href="../../issues/27">JAVA开发-国际化</a></li>
 </ul>
