@@ -38,5 +38,5 @@ The note of Java Web
 <li><a href="../../issues/30">防止SQL语句的注入</a></li>
 <li><a href="../../issues/31">JAVA异常类的小问题</a></li>
 <li><a href="../../issues/32">JAVA分页问题</a></li>
-<li><a href="../../issues/33">使用JDBC处理大数据</a></li>
+<li><a href="../../issues/33">JDBC的学习（进阶篇）</a></li>
 </ul>
