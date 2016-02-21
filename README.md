@@ -41,4 +41,5 @@ The note of Java Web
 <li><a href="../../issues/33">JDBC的学习（进阶篇）</a></li>
 <li><a href="../../issues/34">JDBC的学习（事务篇）</a></li>
 <li><a href="../../issues/35">JDBC的学习（数据库连接池篇）</a></li>
+<li><a href="../../issues/36">JNDI技术简介</a></li>
 </ul>
