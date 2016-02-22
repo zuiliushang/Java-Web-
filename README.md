@@ -44,4 +44,5 @@ The note of Java Web
 <li><a href="../../issues/36">JNDI技术简介</a></li>
 <li><a href="../../issues/37">JDBC的学习（编写自己的JDBC框架）</a></li>
 <li><a href="../../issues/38">Apache-Dbutils框架的学习</a></li>
+<li><a href="../../issues/39">模拟转账（Dbutils框架）</a></li>
 </ul>
