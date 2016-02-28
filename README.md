@@ -48,6 +48,7 @@ The note of Java Web
 <li><a href="../../issues/40">JDBC的学习（多表查询）</a></li>
 <li><a href="../../issues/41">Filter的学习（入门篇）</a></li>
 <li><a href="../../issues/42">Filter的学习（高级开发篇）</a></li>
+<li><a href="../../issues/43">Filter的学习（数据压缩篇）</a></li>
 
 
 </ul>
