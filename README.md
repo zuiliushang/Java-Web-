@@ -50,5 +50,6 @@ The note of Java Web
 <li><a href="../../issues/42">Filter的学习（高级开发篇）</a></li>
 <li><a href="../../issues/43">Filter的学习（数据压缩篇）</a></li>
 <li><a href="../../issues/44">Filter的学习（缓存数据到内存篇）</a></li>
+<li><a href="../../issues/45">Filter的学习（权限管理系统）</a></li>
 
 </ul>
